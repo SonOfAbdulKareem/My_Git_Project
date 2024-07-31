@@ -20,6 +20,8 @@ Before we can commence to anything on this project, we need to ascertain a creat
 
 ![first](Project_2_images/1CLICK_3_LINES_TOP.jpg)
 ![Click_3](<Project_2_images/Project_2_images/1. CLICK 3 LINES TOP.jpg>)
+![new_click](Project_2_images/Project_2_images/1.CLICK-3-LINES-TOP.jpg)
+
 
 
 
